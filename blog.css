@@ -1,0 +1,40 @@
+.header{
+   height: 200px;
+   /*background-image: url('hom'); */
+   /*background-image: url(../bacic.css/cng.jpg.jpg)*/
+   /*background-image: ('../image');*/
+   background-image: url('../image/vever');
+   background-size: contain;
+   background-repeat: ;
+   background-position: center;
+   background-blend-mode: multiply;
+   color: aqua;
+   /*background-position: multiply;*/
+}
+.blog{
+   background-color: blue;
+   box-shadow: 50px 50px 100px;
+}
+h3{
+   color: magenta;
+   text-decoration: underline wavy green;                             
+}
+p{
+   color: blue;
+}
+.page-tital{
+   font-weight: 900;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+   text-decoration:none
+}
+
+
+span {
+  border: 1px solid purple;
+  height: 200px;
+  width: 100px;
+  margin-left: 50px;
+  display: none;
+}
